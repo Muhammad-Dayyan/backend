@@ -1,0 +1,9 @@
+.PRODUCT{
+    border: 1PX SOLID BLACK;
+    text-align: center;
+    margin: 8rem;
+    background-color: rgb(74, 74, 245);
+}
+h1{
+    text-align: center;
+}
